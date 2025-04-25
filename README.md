@@ -1,5 +1,4 @@
 # Dev-Notes
-A bunch of my dev notes, blog posts, and things I've learned while building stuff. Questions, thoughts, and comments are always welcome,  let’s chat!
 
 
 <br>
