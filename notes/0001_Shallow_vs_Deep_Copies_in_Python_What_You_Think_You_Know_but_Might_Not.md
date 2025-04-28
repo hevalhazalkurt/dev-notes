@@ -1,5 +1,9 @@
 # Shallow vs Deep Copies in Python, What You Think You Know (but Might Not)
 
+Check this post on my blog [here](https://hevalhazalkurt.com/blog/shallow-vs-deep-copies-in-python-what-you-think-you-know-but-might-not/).
+
+<br>
+
 Copying objects in Python may seem like a simple task. You’ve got a list, or maybe a dictionary, and you want a copy of it. Easy, right? Just assign it to a new variable or maybe use `copy()`. But under the hood, things can get tricky, especially when your data is nested or mutable. That's where the concepts of **shallow** and **deep** copies come in.
 
 In this post, we’ll break down what these terms really mean, why choosing the right one matters, and show real-world examples of how copying can either save or sabotage your program.

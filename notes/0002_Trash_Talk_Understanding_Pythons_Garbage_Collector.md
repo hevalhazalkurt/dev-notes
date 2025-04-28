@@ -1,5 +1,9 @@
 # Trash Talk: Understanding Python’s Garbage Collector
 
+Check this post on my blog [here](https://hevalhazalkurt.com/blog/trash-talk-understanding-pythons-garbage-collector/).
+
+<br>
+
 When you write a Python program, you probably don’t spend much time thinking about what happens to all the stuff you stop using. You create variables, objects, data structures... and when you’re done with them, you just move on. 
 
 But wait, under the hood who’s cleaning up all the mess you leave behind? The answer is Python’s garbage collector.
