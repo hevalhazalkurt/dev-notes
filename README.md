@@ -1,5 +1,5 @@
 # Dev-Notes
-
+You can check [my personal blog](https://hevalhazalkurt.com/) for a better reading experience.
 
 <br>
 
