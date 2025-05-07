@@ -10,4 +10,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [How Async/Await Evolved from Generator-Based Coroutines](notes/0004_How_Async_Await_Evolved_from_Generator_Based_Coroutines.md)
 * [How Order Changes Behavior in Chained Decorators](notes/0005_How_Order_Changes_Behavior_in_Chained_Decorators.md)
 * [Creating Declarative APIs with Class Decorators in Python](notes/0006_Creating_Declarative_APIs_with_Class_Decorators_in_Python.md)
-* [Keys to Mastering Python Method Decorators]()
+* [Keys to Mastering Python Method Decorators](notes/0007_Keys_to_Mastering_Python_Method_Decorators.md)
