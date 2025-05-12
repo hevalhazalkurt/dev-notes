@@ -12,4 +12,5 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Creating Declarative APIs with Class Decorators in Python](notes/0006_Creating_Declarative_APIs_with_Class_Decorators_in_Python.md)
 * [Keys to Mastering Python Method Decorators](notes/0007_Keys_to_Mastering_Python_Method_Decorators.md)
 * [The Danger of Overusing is Instead of == in Python](notes/0008_The_Danger_of_Overusing_is_Instead_of_==_in_Python.md)
-* [Behind the Underscores EP01: Understanding Python’s Special Methods Conceptually]()
+* [Behind the Underscores EP01: Understanding Python’s Special Methods Conceptually](notes/0009_Behind_the_Underscores_EP01_Understanding_Pythons_Special_Methods_Conceptually.md)
+* [Behind the Underscores EP02: Object Initialization and Construction Methods (`__new__`, `__init__`, `__del__`)](notes/0010_Behind_the_Underscores_EP02_Object_Initialization_and_Construction_Methods_new_init_del.md)
