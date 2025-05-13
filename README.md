@@ -15,3 +15,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Behind the Underscores EP01: Understanding Python’s Special Methods Conceptually](notes/0009_Behind_the_Underscores_EP01_Understanding_Pythons_Special_Methods_Conceptually.md)
 * [Behind the Underscores EP02: Object Initialization and Construction Methods (`__new__`, `__init__`, `__del__`)](notes/0010_Behind_the_Underscores_EP02_Object_Initialization_and_Construction_Methods_new_init_del.md)
 * [Behind the Underscores EP03: String Representation Methods (`__str__`, `__repr__`, `__format__`)](notes/0011_Behind_the_Underscores_EP03_String_Representation_Methods_str_repr_format.md)
+* [Behind the Underscores EP04: Arithmetic Methods (`__add__`, `__sub__`, `__mul__`)](notes/0012_Behind_the_Underscores_EP04_Arithmetic_Methods_add_sub_mul.md)
