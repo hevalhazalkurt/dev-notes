@@ -18,3 +18,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Behind the Underscores EP04: Arithmetic Methods (`__add__`, `__sub__`, `__mul__`)](notes/0012_Behind_the_Underscores_EP04_Arithmetic_Methods_add_sub_mul.md)
 * [Behind the Underscores EP05: Comparison Methods (`__eq__`, `__lt__`, `__gt__`)](notes/0013_Behind_the_Underscores_EP05_Comparison_Methods_eq_lt_gt.md)
 * [Behind the Underscores EP06: Bitwise Methods (`__and__`, `__or__`, `__xor__`)](notes/0014_Behind_the_Underscores_EP06_Bitwise_Methods_and_or_xor.md)
+* [Behind the Underscores EP07: Container protocol (`__getitem__`, `__setitem__`, `__delitem__`)](notes/0015_Behind_the_Underscores_EP07_Container_protocol_getitem_setitem_delitem.md)
