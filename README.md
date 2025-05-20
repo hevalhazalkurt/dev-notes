@@ -23,3 +23,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Behind the Underscores EP09: Attribute Access (`__getattr__`, `__getattribute__`, `__setattr__`, `__delattr__`)](notes/0017_Behind_the_Underscores_EP09_Attribute_Access_getattr_getattribute_setattr_delattr.md)
 * [Behind the Underscores EP10: Context Management (`__enter__`, `__exit__`)](notes/0018_Behind_the_Underscores_EP10_Context_Management_enter_exit.md)
 * [Behind the Underscores EP11: Callable Objects: `__call__`](notes/0019_Behind_the_Underscores_EP11_Callable_Objects_call.md)
+* [Behind the Underscores EP12: Descriptor Protocol (`__get__`, `__set__`, `__delete__`)](notes/0020_Behind_the_Underscores_EP12_Descriptor_Protocol_get_set_delete.md)
