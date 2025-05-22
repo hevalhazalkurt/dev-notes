@@ -26,3 +26,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Behind the Underscores EP12: Descriptor Protocol (`__get__`, `__set__`, `__delete__`)](notes/0020_Behind_the_Underscores_EP12_Descriptor_Protocol_get_set_delete.md)
 * [Behind the Underscores EP13: Metaprogramming Methods (`__class__`, `__bases__`, `__mro__`, `__instancecheck__`)](notes/0021_Behind_the_Underscores_EP13_Metaprogramming_Methods_class_bases_mro_instancecheck.md)
 * [Understanding Async Context Managers in Python](notes/0022_Understanding_Async_Context_Managers_in_Python.md)
+* [How the GIL Affects Real Python Workloads](notes/0023_How_the_GIL_Affects_Real_Python_Workloads.md)
