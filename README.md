@@ -28,4 +28,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Understanding Async Context Managers in Python](notes/0022_Understanding_Async_Context_Managers_in_Python.md)
 * [How the GIL Affects Real Python Workloads](notes/0023_How_the_GIL_Affects_Real_Python_Workloads.md)
 * [Slotted classes with `__slots__` in Python](notes/0024_Slotted_classes_with_slots_in_Python.md)
-
+* [The Art of Scope Management in Modular Python Design](notes/0025_The_Art_of_Scope_Management_in_Modular_Python_Design.md)
