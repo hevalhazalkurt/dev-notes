@@ -29,3 +29,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [How the GIL Affects Real Python Workloads](notes/0023_How_the_GIL_Affects_Real_Python_Workloads.md)
 * [Slotted classes with `__slots__` in Python](notes/0024_Slotted_classes_with_slots_in_Python.md)
 * [The Art of Scope Management in Modular Python Design](notes/0025_The_Art_of_Scope_Management_in_Modular_Python_Design.md)
+* [Designing Retryable Asynchronous APIs Using functools.partial and Custom Decorators](notes/0026_Designing_Retryable_Asynchronous_APIs_Using_functools_partial_and_Custom_Decorators.md)
