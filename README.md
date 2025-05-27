@@ -31,4 +31,5 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [The Art of Scope Management in Modular Python Design](notes/0025_The_Art_of_Scope_Management_in_Modular_Python_Design.md)
 * [Designing Retryable Asynchronous APIs Using functools.partial and Custom Decorators](notes/0026_Designing_Retryable_Asynchronous_APIs_Using_functools_partial_and_Custom_Decorators.md)
 * [Dataclasses vs Pydantic vs TypedDict vs NamedTuple in Python](notes/0027_Dataclasses_vs_Pydantic_vs_TypedDict_vs_NamedTuple_in_Python.md)
+* [Why Composition Beats Inheritance in Large-Scale Python Systems](notes/0028_Why_Composition_Beats_Inheritance_in_Large_Scale_Python_Systems.md)
 
