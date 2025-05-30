@@ -34,4 +34,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Why Composition Beats Inheritance in Large-Scale Python Systems](notes/0028_Why_Composition_Beats_Inheritance_in_Large_Scale_Python_Systems.md)
 * [Encapsulation and Domain-Driven Design in Python Projects](notes/0029_Encapsulation_and_Domain_Driven_Design_in_Python_Projects.md)
 * [Instance vs Class vs Static Methods in Python](notes/0030_Instance_vs_Class_vs_Static_Methods_in_Python.md)
-
+* [Combining Abstract Classes with Factory and Strategy Patterns in Python](notes/0031_Combining_Abstract_Classes_with_Factory_and_Strategy_Patterns_in_Python.md)
