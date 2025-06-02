@@ -36,4 +36,5 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Instance vs Class vs Static Methods in Python](notes/0030_Instance_vs_Class_vs_Static_Methods_in_Python.md)
 * [Combining Abstract Classes with Factory and Strategy Patterns in Python](notes/0031_Combining_Abstract_Classes_with_Factory_and_Strategy_Patterns_in_Python.md)
 * [Architecting a Multithreaded Log Monitor in Python](notes/0032_Architecting_a_Multithreaded_Log_Monitor_in_Python.md)
+* [Advanced Shared State Management in Python Multiprocessing](notes/0033_Advanced_Shared_State_Management_in_Python_Multiprocessing.md)
 
