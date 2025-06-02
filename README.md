@@ -37,4 +37,5 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Combining Abstract Classes with Factory and Strategy Patterns in Python](notes/0031_Combining_Abstract_Classes_with_Factory_and_Strategy_Patterns_in_Python.md)
 * [Architecting a Multithreaded Log Monitor in Python](notes/0032_Architecting_a_Multithreaded_Log_Monitor_in_Python.md)
 * [Advanced Shared State Management in Python Multiprocessing](notes/0033_Advanced_Shared_State_Management_in_Python_Multiprocessing.md)
+* [Mastering Task Lifecycle in Python’s asyncio](notes/0034_Mastering_Task_Lifecycle_in_Pythons_asyncio.md)
 
