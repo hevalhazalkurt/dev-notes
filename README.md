@@ -39,4 +39,5 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Advanced Shared State Management in Python Multiprocessing](notes/0033_Advanced_Shared_State_Management_in_Python_Multiprocessing.md)
 * [Mastering Task Lifecycle in Python’s asyncio](notes/0034_Mastering_Task_Lifecycle_in_Pythons_asyncio.md)
 * [Designing Robust Transaction Management with Nested Transactions and Savepoints in SQLAlchemy](notes/0035_Designing_Robust_Transaction_Management_with_Nested_Transactions_and_Savepoints_in_SQLAlchemy.md)
+* [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md)
 
