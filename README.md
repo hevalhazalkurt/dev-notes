@@ -40,4 +40,6 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Mastering Task Lifecycle in Python’s asyncio](notes/0034_Mastering_Task_Lifecycle_in_Pythons_asyncio.md)
 * [Designing Robust Transaction Management with Nested Transactions and Savepoints in SQLAlchemy](notes/0035_Designing_Robust_Transaction_Management_with_Nested_Transactions_and_Savepoints_in_SQLAlchemy.md)
 * [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md)
+* [Designing Reusable and Scalable ORM Models with Declarative Base and Mixins](notes/0037_Designing_Reusable_and_Scalable_ORM_Models_with_Declarative_Base_and_Mixins.md)
+
 
