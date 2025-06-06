@@ -42,5 +42,6 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md)
 * [Designing Reusable and Scalable ORM Models with Declarative Base and Mixins](notes/0037_Designing_Reusable_and_Scalable_ORM_Models_with_Declarative_Base_and_Mixins.md)
 * [How to Defeat the N+1 Problem with joinedload, selectinload, and subqueryload](notes/0038_How_to_Defeat_the_N1_Problem_with_joinedload_selectinload_and_subqueryload.md)
+* [Handling Data in Alembic Migrations When Schema Changes Aren’t Enough](notes/0039_Handling_Data_in_Alembic_Migrations_When_Schema_Changes_Arent_Enough.md)
 
 
