@@ -1,5 +1,9 @@
 # Building Secure and Scalable Multitenant Systems Basics for B2B SaaS
 
+Check this post on my blog [here](https://hevalhazalkurt.com/blog/building-secure-and-scalable-multitenant-systems-basics-for-b2b-saas/).
+
+<br>
+
 # Why Multitenancy Matters
 
 Imagine you're building a SaaS CRM tool for businesses. Every customer expects their data to be private and isolated, even though you're serving them all from a single backend system. This need for isolation, without deploying a separate application for each customer, is what makes multitenancy essential.
