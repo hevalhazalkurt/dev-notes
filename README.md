@@ -45,4 +45,6 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Handling Data in Alembic Migrations When Schema Changes Aren’t Enough](notes/0039_Handling_Data_in_Alembic_Migrations_When_Schema_Changes_Arent_Enough.md)
 * [Building Secure and Scalable Multitenant Systems Basics for B2B SaaS](notes/0040_Building_Secure_and_Scalable_Multitenant_Systems_Basics_for_B2B_SaaS.md)
 * [Database Schema Design Patterns for Building Scalable E-commerce Applications](notes/0041_Database_Schema_Design_Patterns_for_Building_Scalable_Ecommerce_Applications.md)
+* [The Art of Not Losing Your Data (or Your Mind) with Isolation Levels](notes/0042_The_Art_of_Not_Losing_Your_Data_or_Your_Mind_with_Isolation_Levels.md)
+* [Explicit vs Implicit Transaction Management in ORMs](notes/0043_Explicit_vs_Implicit_Transaction_Management_in_ORMs.md)
 
