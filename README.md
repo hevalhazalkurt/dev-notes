@@ -47,4 +47,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Database Schema Design Patterns for Building Scalable E-commerce Applications](notes/0041_Database_Schema_Design_Patterns_for_Building_Scalable_Ecommerce_Applications.md)
 * [The Art of Not Losing Your Data (or Your Mind) with Isolation Levels](notes/0042_The_Art_of_Not_Losing_Your_Data_or_Your_Mind_with_Isolation_Levels.md)
 * [Explicit vs Implicit Transaction Management in ORMs](notes/0043_Explicit_vs_Implicit_Transaction_Management_in_ORMs.md)
-
+* [The Ultimate Guide to Full Text Search and Filter Implementation with PostgreSQL and SQLAlchemy](notes/0044_The_Ultimate_Guide_to_Full_Text_Search_and_Filter_Implementation_with_PostgreSQL_and_SQLAlchemy.md)
