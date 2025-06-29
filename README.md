@@ -49,3 +49,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 * [Explicit vs Implicit Transaction Management in ORMs](notes/0043_Explicit_vs_Implicit_Transaction_Management_in_ORMs.md)
 * [The Ultimate Guide to Full Text Search and Filter Implementation with PostgreSQL and SQLAlchemy](notes/0044_The_Ultimate_Guide_to_Full_Text_Search_and_Filter_Implementation_with_PostgreSQL_and_SQLAlchemy.md)
 * [Connection Pooling Deep Dive with SQLAlchemy](notes/0045_Connection_Pooling_Deep_Dive_with_SQLAlchemy.md)
+* [Managing Bidirectional Relationships in SQLAlchemy with backref and back_populates](notes/0046_Managing_Bidirectional_Relationships_in_SQLAlchemy_with_backref_and_back_populates.md)
