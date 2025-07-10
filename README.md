@@ -67,4 +67,4 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 | [Designing Scalable Order Systems with SQLAlchemy Hybrid & Column Properties](notes/0048_Designing_Scalable_Order_Systems_with_SQLAlchemy_Hybrid_Column_Properties.md) | `sqlalchemy`, `column property`, `hybrid property`, `expression`, `hybrid method`, `relationships`, `e-commerce`, `order` |
 | [Queries Taking Forever? Partitioning Might Be Your Answer](notes/0049_Queries_Taking_Forever_Partitioning_Might_Be_Your_Answer.md) | `postgresql`, `sqlalchemy`, `partitioning`, `e-commerce`|
 | [A Pythonic Approach to Scaling PostgreSQL From Monolith to Shards](notes/0050_a_pythonic_approach_to_scaling_postgresql_from_monolith_to_shards.md)| `postgresql`, `sqlalchemy`, `sharding` |
-
+| [Putting Your Backend on Autopilot with SQLAlchemy Events](notes/0051_putting_your_backend_on_autopilot_with_sqlalchemy_events.md) | `postgresql`, `sqlalchemy`, `events`, `user` |
