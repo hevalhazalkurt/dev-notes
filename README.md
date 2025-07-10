@@ -14,7 +14,7 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 | [How Async/Await Evolved from Generator-Based Coroutines](notes/0004_How_Async_Await_Evolved_from_Generator_Based_Coroutines.md) | `generators`, `async` , `asyncio` |
 | [How Order Changes Behavior in Chained Decorators](notes/0005_How_Order_Changes_Behavior_in_Chained_Decorators.md) | `generators`, `async`, `decorators`, `order`, `auth`, `logging`, `retry` |
 | [Creating Declarative APIs with Class Decorators in Python](notes/0006_Creating_Declarative_APIs_with_Class_Decorators_in_Python.md) | `class`, `class decorators`, `declarative api`, `decorators`, `metaclass` |
-| [Keys to Mastering Python Method Decorators](notes/0007_Keys_to_Mastering_Python_Method_Decorators.md) | `class`, `method decorators`,  `classmethod`, `staticmethod`, `property`, `factory methods`, `registry` |
+| [Keys to Mastering Python Method Decorators](notes/0007_Keys_to_Mastering_Python_Method_Decorators.md) | `class`, `method decorators`, `classmethod`, `staticmethod`, `property`, `factory methods`, `registry` |
 | [The Danger of Overusing `is` Instead of `==` in Python](notes/0008_The_Danger_of_Overusing_is_Instead_of_==_in_Python.md) | `equality`, `comparison` |
 | [Behind the Underscores EP01: Understanding Python’s Special Methods Conceptually](notes/0009_Behind_the_Underscores_EP01_Understanding_Pythons_Special_Methods_Conceptually.md) | `class`, `oop`, `special methods`, `dunder methods`|
 | [Behind the Underscores EP02: Object Initialization and Construction Methods (`__new__`, `__init__`, `__del__`)](notes/0010_Behind_the_Underscores_EP02_Object_Initialization_and_Construction_Methods_new_init_del.md) | `class`, `oop`, `special methods`, `dunder methods`, `initialization`, `construction`|
@@ -49,22 +49,22 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 
 ## Database & ORM
 
-| Article  | Tags | 
+| Article | Tags| 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Designing Robust Transaction Management with Nested Transactions and Savepoints in SQLAlchemy](notes/0035_Designing_Robust_Transaction_Management_with_Nested_Transactions_and_Savepoints_in_SQLAlchemy.md) | `sqlalchemy`, `transaction`, `savepoint`, `nested`, `commit`, `rollback`, `retry` |
-| [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md) | `locking`, `sqlalchemy`, `row-level`, `table-level`, `advisory-level` |
+| [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md)| `locking`, `sqlalchemy`, `row-level`, `table-level`, `advisory-level` |
 | [Designing Reusable and Scalable ORM Models with Declarative Base and Mixins](notes/0037_Designing_Reusable_and_Scalable_ORM_Models_with_Declarative_Base_and_Mixins.md) | `sqlalchemy`, `declarative base`, `mixin`, `declared_attr`, `registry`, `soft delete`, `uuid`, `timestamp`, `audit` |
-| [How to Defeat the N+1 Problem with joinedload, selectinload, and subqueryload](notes/0038_How_to_Defeat_the_N1_Problem_with_joinedload_selectinload_and_subqueryload.md) | `sql`, `sqlalchemy`, `relationships`,  `n+1`, `performance`, `query`, `lazy loading`, `joinedload`, `selectinload`, `subqueryload`, `bookstore` |
-| [Handling Data in Alembic Migrations When Schema Changes Aren’t Enough](notes/0039_Handling_Data_in_Alembic_Migrations_When_Schema_Changes_Arent_Enough.md)  | `sql`, `migration`, `alembic`, `data model`, `schema`, `enum`, `denormalization` |
+| [How to Defeat the N+1 Problem with joinedload, selectinload, and subqueryload](notes/0038_How_to_Defeat_the_N1_Problem_with_joinedload_selectinload_and_subqueryload.md)| `sql`, `sqlalchemy`, `relationships`, `n+1`, `performance`, `query`, `lazy loading`, `joinedload`, `selectinload`, `subqueryload`, `bookstore` |
+| [Handling Data in Alembic Migrations When Schema Changes Aren’t Enough](notes/0039_Handling_Data_in_Alembic_Migrations_When_Schema_Changes_Arent_Enough.md) | `sql`, `migration`, `alembic`, `data model`, `schema`, `enum`, `denormalization`|
 | [Building Secure and Scalable Multitenant Systems Basics for B2B SaaS](notes/0040_Building_Secure_and_Scalable_Multitenant_Systems_Basics_for_B2B_SaaS.md) | `sql`, `sqlalchemy`, `multitenant`, `saas`, `data schema`, `data model`, `event listener`, `user roles` |
-| [Database Schema Design Patterns for Building Scalable E-commerce Applications](notes/0041_Database_Schema_Design_Patterns_for_Building_Scalable_Ecommerce_Applications.md)  | `sqlalchemy`, `relationships`, `data schema`, `one-to-many`, `many-to-many`, `normalize`, `denormalize`, `polymorphic`, `e-commerce` |
-| [The Art of Not Losing Your Data (or Your Mind) with Isolation Levels](notes/0042_The_Art_of_Not_Losing_Your_Data_or_Your_Mind_with_Isolation_Levels.md) | `sql`, `sqlalchemy`, `isolation`, `acid`, `serializable`, `phantom read` |
+| [Database Schema Design Patterns for Building Scalable E-commerce Applications](notes/0041_Database_Schema_Design_Patterns_for_Building_Scalable_Ecommerce_Applications.md) | `sqlalchemy`, `relationships`, `data schema`, `one-to-many`, `many-to-many`, `normalize`, `denormalize`, `polymorphic`, `e-commerce`|
+| [The Art of Not Losing Your Data (or Your Mind) with Isolation Levels](notes/0042_The_Art_of_Not_Losing_Your_Data_or_Your_Mind_with_Isolation_Levels.md) | `sql`, `sqlalchemy`, `isolation`, `acid`, `serializable`, `phantom read`|
 | [Explicit vs Implicit Transaction Management in ORMs](notes/0043_Explicit_vs_Implicit_Transaction_Management_in_ORMs.md) | `sqlalchemy`, `transaction`, `session`, `async`, `acid`, `context manager`, `fastapi`, `savepoint`, `nested`, `retry`, `event listener` |
 | [The Ultimate Guide to Full Text Search and Filter Implementation with PostgreSQL and SQLAlchemy](notes/0044_The_Ultimate_Guide_to_Full_Text_Search_and_Filter_Implementation_with_PostgreSQL_and_SQLAlchemy.md) | `postgresql`, `sqlalchemy`, `full text search`, `filter`, `sql function`, `TSVector`, `TSQuery`, `__table_args__`, `film` |
 | [Connection Pooling Deep Dive with SQLAlchemy](notes/0045_Connection_Pooling_Deep_Dive_with_SQLAlchemy.md) | `sqlalchemy`, `connection pool`, `fastapi`, `QueuePool`, `event listener`, `prometheus_client`, `gunicorn`, `asyncpg` |
-| [Managing Bidirectional Relationships in SQLAlchemy with backref and back_populates](notes/0046_Managing_Bidirectional_Relationships_in_SQLAlchemy_with_backref_and_back_populates.md) | `sqlalchemy`, `relationships`, `backref`, `back_populates`, `blog`  |
-| [When to Choose NoSQL Over SQL](notes/0047_When_to_Choose_NoSQL_Over_SQL.md)  | `sql`, `nosql`  |
+| [Managing Bidirectional Relationships in SQLAlchemy with backref and back_populates](notes/0046_Managing_Bidirectional_Relationships_in_SQLAlchemy_with_backref_and_back_populates.md) | `sqlalchemy`, `relationships`, `backref`, `back_populates`, `blog` |
+| [When to Choose NoSQL Over SQL](notes/0047_When_to_Choose_NoSQL_Over_SQL.md) | `sql`, `nosql` |
 | [Designing Scalable Order Systems with SQLAlchemy Hybrid & Column Properties](notes/0048_Designing_Scalable_Order_Systems_with_SQLAlchemy_Hybrid_Column_Properties.md) | `sqlalchemy`, `column property`, `hybrid property`, `expression`, `hybrid method`, `relationships`, `e-commerce`, `order` |
-| [Queries Taking Forever? Partitioning Might Be Your Answer](notes/0049_Queries_Taking_Forever_Partitioning_Might_Be_Your_Answer.md) | `postgresql`, `sqlalchemy`, `partitioning`, `e-commerce` |
-
+| [Queries Taking Forever? Partitioning Might Be Your Answer](notes/0049_Queries_Taking_Forever_Partitioning_Might_Be_Your_Answer.md) | `postgresql`, `sqlalchemy`, `partitioning`, `e-commerce`|
+| [A Pythonic Approach to Scaling PostgreSQL From Monolith to Shards](notes/0050_a_pythonic_approach_to_scaling_postgresql_from_monolith_to_shards.md)| `postgresql`, `sqlalchemy`, `sharding` |
 
