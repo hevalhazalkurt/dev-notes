@@ -68,4 +68,11 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 | [Queries Taking Forever? Partitioning Might Be Your Answer](notes/0049_Queries_Taking_Forever_Partitioning_Might_Be_Your_Answer.md) | `postgresql`, `sqlalchemy`, `partitioning`, `e-commerce` |
 | [A Pythonic Approach to Scaling PostgreSQL From Monolith to Shards](notes/0050_a_pythonic_approach_to_scaling_postgresql_from_monolith_to_shards.md)| `postgresql`, `sqlalchemy`, `sharding` |
 | [Putting Your Backend on Autopilot with SQLAlchemy Events](notes/0051_putting_your_backend_on_autopilot_with_sqlalchemy_events.md) | `postgresql`, `sqlalchemy`, `events`, `user` |
+
+<br>
+
+## Design Patterns and Architecture
+
+| Article | Tags | 
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [One Menu, Two Baristas: Handling SQL & NoSQL with the Repository Pattern](notes/0052_One_Menu_Two_Baristas_Handling_SQL_NoSQL_with_the_Repository_Pattern.md) | `repository pattern`, `design pattern`, `architecture`, `postgresql`, `sqlalchemy`, `mongodb`, `sql`, `nosql` |
