@@ -8,7 +8,7 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 
 | Article | Tags | 
 |--|--|
-| [Shallow vs Deep Copies in Python, What You Think You Know (but Might Not)](notes/0001_Shallow_vs_Deep_Copies_in_Python_What_You_Think_You_Know_but_Might_Not.md) | `copy`, `shallow copy`, `deep copy` |
+| [Shallow vs Deep Copies in Python, What You Think You Know (but Might Not)](notes/0001_Shallow_vs_Deep_Copies_in_Python_What_You_Think_You_Know_but_Might_Not.md) | `copy`, `shallow copy`, `deep copy` |
 | [Trash Talk: Understanding Python’s Garbage Collector](notes/0002_Trash_Talk_Understanding_Pythons_Garbage_Collector.md) | `gc module`, `memory`, `performance`|
 | [The Power of `yield from` in Python Generators](notes/0003_The_Power_of_yield_from_in_Python_Generators.md) | `generators`, `yield from`, `fastapi`|
 | [How Async/Await Evolved from Generator-Based Coroutines](notes/0004_How_Async_Await_Evolved_from_Generator_Based_Coroutines.md) | `generators`, `async` , `asyncio` |
@@ -51,12 +51,12 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 
 | Article | Tags | 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [Designing Robust Transaction Management with Nested Transactions and Savepoints in SQLAlchemy](notes/0035_Designing_Robust_Transaction_Management_with_Nested_Transactions_and_Savepoints_in_SQLAlchemy.md) | `sqlalchemy`, `transaction`, `savepoint`, `nested`, `commit`, `rollback`, `retry`  |
-| [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md)| `locking`, `sqlalchemy`, `row-level`, `table-level`, `advisory-level`  |
+| [Designing Robust Transaction Management with Nested Transactions and Savepoints in SQLAlchemy](notes/0035_Designing_Robust_Transaction_Management_with_Nested_Transactions_and_Savepoints_in_SQLAlchemy.md) | `sqlalchemy`, `transaction`, `savepoint`, `nested`, `commit`, `rollback`, `retry` |
+| [Optimistic vs. Pessimistic Locking in ORMs](notes/0036_Optimistic_vs_Pessimistic_Locking_in_ORMs.md)| `locking`, `sqlalchemy`, `row-level`, `table-level`, `advisory-level` |
 | [Designing Reusable and Scalable ORM Models with Declarative Base and Mixins](notes/0037_Designing_Reusable_and_Scalable_ORM_Models_with_Declarative_Base_and_Mixins.md) | `sqlalchemy`, `declarative base`, `mixin`, `declared_attr`, `registry`, `soft delete`, `uuid`, `timestamp`, `audit` |
 | [How to Defeat the N+1 Problem with joinedload, selectinload, and subqueryload](notes/0038_How_to_Defeat_the_N1_Problem_with_joinedload_selectinload_and_subqueryload.md)| `sql`, `sqlalchemy`, `relationships`, `n+1`, `performance`, `query`, `lazy loading`, `joinedload`, `selectinload`, `subqueryload`, `bookstore` |
 | [Handling Data in Alembic Migrations When Schema Changes Aren’t Enough](notes/0039_Handling_Data_in_Alembic_Migrations_When_Schema_Changes_Arent_Enough.md) | `sql`, `migration`, `alembic`, `data model`, `schema`, `enum`, `denormalization` |
-| [Building Secure and Scalable Multitenant Systems Basics for B2B SaaS](notes/0040_Building_Secure_and_Scalable_Multitenant_Systems_Basics_for_B2B_SaaS.md) | `sql`, `sqlalchemy`, `multitenant`, `saas`, `data schema`, `data model`, `event listener`, `user roles`  |
+| [Building Secure and Scalable Multitenant Systems Basics for B2B SaaS](notes/0040_Building_Secure_and_Scalable_Multitenant_Systems_Basics_for_B2B_SaaS.md) | `sql`, `sqlalchemy`, `multitenant`, `saas`, `data schema`, `data model`, `event listener`, `user roles` |
 | [Database Schema Design Patterns for Building Scalable E-commerce Applications](notes/0041_Database_Schema_Design_Patterns_for_Building_Scalable_Ecommerce_Applications.md) | `sqlalchemy`, `relationships`, `data schema`, `one-to-many`, `many-to-many`, `normalize`, `denormalize`, `polymorphic`, `e-commerce` |
 | [The Art of Not Losing Your Data (or Your Mind) with Isolation Levels](notes/0042_The_Art_of_Not_Losing_Your_Data_or_Your_Mind_with_Isolation_Levels.md) | `sql`, `sqlalchemy`, `isolation`, `acid`, `serializable`, `phantom read` |
 | [Explicit vs Implicit Transaction Management in ORMs](notes/0043_Explicit_vs_Implicit_Transaction_Management_in_ORMs.md) | `sqlalchemy`, `transaction`, `session`, `async`, `acid`, `context manager`, `fastapi`, `savepoint`, `nested`, `retry`, `event listener` |
@@ -76,3 +76,11 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 | Article | Tags | 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [One Menu, Two Baristas: Handling SQL & NoSQL with the Repository Pattern](notes/0052_One_Menu_Two_Baristas_Handling_SQL_NoSQL_with_the_Repository_Pattern.md) | `repository pattern`, `design pattern`, `architecture`, `postgresql`, `sqlalchemy`, `mongodb`, `sql`, `nosql` |
+
+
+
+## Frameworks 
+
+| Article | Tags |
+|-----------------------------------------------------------------------------|------------------------------------|
+| [FastAPI Middleware vs. Dependencies, A Guide to Choosing the Right Tool](notes/0053_FastAPI_Middleware_vs_Dependencies_A_Guide_to_Choosing_the_Right_Tool.md) | `fastapi`, `depends`, `middleware` |
