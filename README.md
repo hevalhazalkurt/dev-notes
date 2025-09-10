@@ -74,9 +74,9 @@ You can check [my personal blog](https://hevalhazalkurt.com/) for a better readi
 ## Design Patterns and Architecture
 
 | Article | Tags | 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | [One Menu, Two Baristas: Handling SQL & NoSQL with the Repository Pattern](notes/0052_One_Menu_Two_Baristas_Handling_SQL_NoSQL_with_the_Repository_Pattern.md) | `repository pattern`, `design pattern`, `architecture`, `postgresql`, `sqlalchemy`, `mongodb`, `sql`, `nosql` |
-
+| [Webhooks: “Don't Call Us, We'll Call You”](notes/0054_Webhooks_Dont_Call_Us_We_ll_Call_You.md) | `webhooks`, `fastapi`, `api`, `event`, `design pattern` |
 
 
 ## Frameworks 
